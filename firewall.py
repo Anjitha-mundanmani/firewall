@@ -46,6 +46,7 @@ def activate_ufw():
 
 
 def Exit():
+    console.print("Successfully Exited",style="bold green")
     exit()
 
 
